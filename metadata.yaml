@@ -1,0 +1,37 @@
+_repo: American-Institutions-and-Their-Influence_8690
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tocqueville, Alexis de
+    aliases:
+    - De Tocqueville, Alexis
+    - Toqueville, Alexis de
+    - Tocqueville, Alexis Charles Henri Maurice Clerel de
+    - Tocqueville, Alexis Charles Henri Maurice Clérel de
+    birthdate: 1805
+    deathdate: 1859
+    gutenberg_agent_id: '424'
+    url: http://www.gutenberg.org/2009/agents/424
+    wikipedia: http://en.wikipedia.org/wiki/Alexis_de_Tocqueville
+  editor:
+    agent_name: Spencer, John C. (John Canfield)
+    birthdate: 1788
+    deathdate: 1855
+    gutenberg_agent_id: '38240'
+    url: http://www.gutenberg.org/2009/agents/38240
+description: ''
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8690'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JK'
+- !lcsh 'United States -- Politics and government'
+- !lcsh 'Democracy'
+- GITenberg
+title: American Institutions and Their Influence
+url: http://www.gutenberg.org/ebooks/8690
