@@ -1,5 +1,8 @@
 _repo: American-Institutions-and-Their-Influence_8690
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tocqueville, Alexis de
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '38240'
     url: http://www.gutenberg.org/2009/agents/38240
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8690#American-Institutions-and-Their-Influence
 gutenberg_issued: '2005-08-01'
 gutenberg_type: Text
 identifiers:
